@@ -1,5 +1,1 @@
-* linguist-vendored
-*.c++ linguist-vendored=false
-*.html linguist-vendored=false
-*.Dart linguist-vendored=true
-*.CMake linguist-vendored=false
+* linguist-language=dart
