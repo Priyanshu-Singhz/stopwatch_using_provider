@@ -1,4 +1,4 @@
-# flutter_application_5
+## Timer using provider package in flutter
 
 A new Flutter project.
 
